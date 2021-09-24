@@ -1,0 +1,6 @@
+rank_songs.json
+.idea
+__pycache__
+build
+dist
+main.spec
